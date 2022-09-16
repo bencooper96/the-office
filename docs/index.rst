@@ -8,8 +8,9 @@ Welcome to The Office's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Cooltents:
 
+   modules
 
 
 Indices and tables
